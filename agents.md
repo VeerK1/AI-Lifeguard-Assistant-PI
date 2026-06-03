@@ -47,5 +47,5 @@ Validate that your proposed changes do not violate the Zero Disk I/O rule.
 
 ## Tasks
 
-If your task revolves around Phase 1, look at: [Phase1.md](Phase1.md)
-Otherwise look at [fullPlan.md](fullPlan.md)
+look at [PiPlan.md](PiPlan.md)
+If your task has checkboxes track which tasks are completed by updating them in [PiPlan.md](PiPlan.md)
